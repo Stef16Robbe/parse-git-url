@@ -13,6 +13,7 @@ Supports parsing SSH/HTTPS repo urls for:
 - Github
 - Bitbucket
 - Azure Devops
+- Gitlab
 
 See [tests/parse.rs](tests/parse.rs) for expected output for a variety of inputs.
 
